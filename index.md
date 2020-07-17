@@ -22,22 +22,6 @@ With new AI-based technologies that power almost all activities in the digital w
 
 <!--[You can enroll here](https://your-school-information-system.edu/course-page)-->
 
-## Announcements
-
-**(2020/01/12:)** There will be **NO CLASS** on Monday, 13th January 2020 or Wednesday, 15th January 2020. Monday, 20th January is a holiday. Therefore, the first class for this course will be on **Wednesday 22nd January 2020** at **9 a.m.** in **Wean Hall Room 5409**.
-
-**(2020/01/29)** Quiz 1 to be released today.
-
-**(2020/02/06)** Quiz 2 to be released today.
-
-**(2020/02/17)** Homework 1 is out. Due 4th March 2020.
-
-**(2020/02/19)** Quiz 3 to be released today.
-
-**(2020/03/02)** Homework 1 deadline extended to 7th March 2020.
-
-**(2020/03/04)** Quiz 4 released. Due 6th March 2020.
-
 ## Instructor and TAs
 
 **Instructor:**    [Rita Singh](http://mlsp.cs.cmu.edu/people/rsingh/index.html) (rsingh@cs.cmu.edu)
