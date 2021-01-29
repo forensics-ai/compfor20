@@ -46,16 +46,16 @@ There will be 14 weeks of lectures. A different forensic subarea will be covered
 **Week 1:** Introduction\\
 **Week 2:** Network forensics\\
 **Week 3:** Dark Web forensics (HW1 released)\\
-**Week 4:** Computer forensics\\
-**Week 5:** Cryptography\\
-**Week 6:** Image forensics\\
-**Week 7:** Steganography  (HW2 released)\\
-**Week 8:** Machine learning in forensics\\
-**Week 9:** Deep learning and AI in forensics (HW3 released)\\
-**Week 10:** Text and social media forensics\\
-**Week 11:** Video forensics (HW4 released)\\
-**Week 12:** Audio forensics\\
-**Week 13:** DeepFakes: generation and tracking\\
+**Week 4:** Machine learning in forensics\\
+**Week 5:** Deep learning and AI in forensics\\
+**Week 6:** Cryptography (HW2 released)\\
+**Week 7:** Image forensics\\
+**Week 8:** Steganography\\
+**Week 9:** Text and social media forensics (HW3 released)\\
+**Week 10:** Video forensics\\
+**Week 11:** Audio forensics\\
+**Week 12:** DeepFakes: generation and tracking (HW4 released)\\
+**Week 13:** Computer forensics\\
 **Week 14:** Advanced tracking techniques
 
 A more comprehensive syllabus can be found [here](https://drive.google.com/file/d/1DgTGOnRHeSikfUWpsAJ6HNiE1dW4ofKd/view?usp=sharing) 
